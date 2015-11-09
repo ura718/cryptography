@@ -40,11 +40,11 @@ nonce = '12345678'
 key = binascii.unhexlify('c6e60b68ce37e90e5ea08930b381af38')
 
 
-# Input file that is to be encrypted
+# Input file that is to be decrypted
 i_file = 'junk'
 
 
-# Output File - Well need to randomize it
+# Output File 
 o_file='myfile'
 
 
